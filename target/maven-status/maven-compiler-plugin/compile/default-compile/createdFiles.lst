@@ -1,0 +1,11 @@
+com\monolith\monolith\controller\PersonController.class
+com\monolith\monolith\repository\PersonRepository.class
+com\monolith\monolith\repository\BrandRepository.class
+com\monolith\monolith\service\BelongingService.class
+com\monolith\monolith\model\Belonging.class
+com\monolith\monolith\service\PersonService.class
+com\monolith\monolith\repository\BelongingRepository.class
+com\monolith\monolith\model\Brand.class
+com\monolith\monolith\MonolithApplication.class
+com\monolith\monolith\model\Country.class
+com\monolith\monolith\model\Person.class
